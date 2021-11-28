@@ -1,16 +1,16 @@
 /* Style Reset */
 
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 /* Basic Style */
@@ -176,14 +176,14 @@ body {
 
 /* Edit Task */
 .todo__item < .todo__input {
-  display:none
+  display: none
 }
 
 .todo__item.edit-mode < .todo__input{
   display:inline-block;
-  width:224px
+  width: 224px
 }
 
 .todo__item.edit-mode < .todo__task {
-  display:none;
+  display: none;
 }
