@@ -11,13 +11,13 @@ h3 {
 }
 
 input,
-button{
+button {
   outline: none;
 }
 
 /* Basic Style */
 
-body {
+.body {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
